@@ -19,7 +19,6 @@ class secondactivity : AppCompatActivity() {
             val data= Intent()
             data.putExtra("FOOD", qsString)
             data.putExtra("CALORIES", ans1s)
-
             setResult(RESULT_OK, data)
             finish()
         }

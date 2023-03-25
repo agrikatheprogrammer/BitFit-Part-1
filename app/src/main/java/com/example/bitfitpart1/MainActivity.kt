@@ -30,7 +30,8 @@ class MainActivity : AppCompatActivity() {
                         data.getStringExtra("CALORIES")!!)
                     )
                     allFlashcards=flashcardDatabase.getAllCards().toMutableList()
-                    theadapter.notifyDataSetChanged()
+                    cards.adapter= (Adapter(this, allFlashcards));
+
                 }
             }
         val ineedabutton=findViewById<Button>(R.id.button)

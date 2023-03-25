@@ -26,7 +26,7 @@ class Adapter(private val context : Context, private val rows: List<Row>) :
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val show=rows[position]
-
+        holder.bind(show)
     }
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView),
         View.OnClickListener {
@@ -37,7 +37,7 @@ class Adapter(private val context : Context, private val rows: List<Row>) :
             itemView.setOnClickListener(this)
         }
         fun bind(rowZ:Row) {
-            calories.text = rowZ.calories.toString()
+            calories.text = rowZ.calories
             food.text = rowZ.food
         }
         override fun onClick(p0: View?) {
