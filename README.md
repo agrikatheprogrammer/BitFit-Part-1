@@ -33,6 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/agrikatheprogrammer/BitFit-Part-1/blob/main/ezgif-1-37d8f6e9ef.gif' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 
+<img src='https://github.com/agrikatheprogrammer/BitFit-Part-1/blob/main/ezgif-1-06cbc6c0aa.gif' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
+
 GIF created with Ezgif.com 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
