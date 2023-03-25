@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://github.com/agrikatheprogrammer/BitFit-Part-1/blob/main/ezgif-1-282f67dc52.gif' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 
 <img src='https://github.com/agrikatheprogrammer/BitFit-Part-1/blob/main/ezgif-1-37d8f6e9ef.gif' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 
