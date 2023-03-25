@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/agrikatheprogrammer/BitFit-Part-1/blob/main/ezgif-1-37d8f6e9ef.gif' title='Video Walkthrough' width='260' alt='Video Walkthrough' />
 
 GIF created with Ezgif.com 
 <!-- Recommended tools:
