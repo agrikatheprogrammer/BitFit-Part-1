@@ -2,7 +2,7 @@
 
 Submitted by: Agrika Gupta
 
-BitFit Part 1 is a health metrics app that allows users to track ... [TODO] 
+BitFit Part 1 is a health metrics app that allows users to track total calories and average calories for their entries. Users will be able to track the number of entries as well for convenience. 
 
 Time spent: **5** hours spent in total
 
