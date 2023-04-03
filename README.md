@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [x] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
 - [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://github.com/agrikatheprogrammer/BitFit-Part-1/blob/main/ezgif-5-f113f21d7b.gif' title='Video Walkthrough' width='270' />
 
 <img src='https://github.com/agrikatheprogrammer/BitFit-Part-1/blob/main/ezgif-3-533e8d31d8.gif' title='Video Walkthrough' width='270' alt='Video Walkthrough' />
 
